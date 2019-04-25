@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Looking to get started with Git and GitHub? Do you need to collaborate with a team? Are you working on a project? Have you recently discovered that you pretty much need to be on GitHub if you want anyone to take you seriously in tech? 
 …do you really just want to contribute to your first open source project?
 
-This one's for you!
+This one's for you! Hola
 
 It's totally easy to get started with Git. If you're a fast reader (and you don't take a lot of time with sign up and installation), you can be up and running on GitHub about ten minutes from right now. 
 
